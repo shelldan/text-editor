@@ -41,8 +41,8 @@ module.exports = () => {
         description: 'An alternative text editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
-        start_url: './',
-        publicPath: './',
+        start_url: '/',
+        publicPath: '/',
         icons: [
           {
             src: path.resolve('src/images/log.png'),
