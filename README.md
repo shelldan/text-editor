@@ -40,11 +40,11 @@ Please view the live application [here](https://shelldan-text-editor.herokuapp.c
 ## Installation
 To clone the repo:
 ```
-git clone https://github.com/shelldan/social-network-API.git
+git clone https://github.com/shelldan/text-editor.git
 ``` 
 Run 'npm install' to install dependencies
 
-Run 'npm start:dev' to start the program
+Run 'npm run start:dev' to start the program
 
 ---
 
